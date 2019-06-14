@@ -73,3 +73,45 @@
     align-items: center;
     justify-content: space-around;
 }
+.radarsat{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.nasa-astronauts{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.mission{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#one{
+    color:dimgray; 
+}
+#one-subtitle{
+    color:white;
+    font-size: .8em;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 10px;
+}
+#two{
+    color: dimgray;
+}
+#two-subtitle{
+    color: white;
+    font-size: .8em;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 10px;
+}
+#three{
+    color:dimgray;
+}
+#three-subtitle{
+    color: white;
+    font-size: .8em;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 10px;
+}
